@@ -1,10 +1,10 @@
 # Chinese Dialogue Dataset with Sentence Function
 
-**类型：**单轮、中文、开放领域
+**类型：** 单轮、中文、开放领域
 
-**来源：**微博
+**来源：** 微博
 
-**规模：**1,963,382 pairs
+**规模：** 1,963,382 pairs
 
 **下载链接：**
 

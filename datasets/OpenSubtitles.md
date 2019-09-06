@@ -1,8 +1,8 @@
 # OpenSubtitles
 
-**类型：**多轮、多语言、电影字幕
+**类型：** 多轮、多语言、电影字幕
 
-**来源：**Internet Movie Database
+**来源：** Internet Movie Database
 
 **规模：**
 

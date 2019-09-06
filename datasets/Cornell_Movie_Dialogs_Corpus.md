@@ -1,10 +1,10 @@
 # Cornell Movie Dialogs Corpus
 
-**类型：**英文、多轮、电影字幕
+**类型：** 英文、多轮、电影字幕
 
-**来源：**Internet Movie Database
+**来源：** Internet Movie Database
 
-**规模：**304,713 utterances
+**规模：** 304,713 utterances
 
 **下载链接：**
 

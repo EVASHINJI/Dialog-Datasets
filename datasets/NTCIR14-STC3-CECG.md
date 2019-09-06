@@ -1,12 +1,14 @@
 # NTCIR14-STC3-CECG
 
-**类型：**单轮、中文
+**类型：** 单轮、中文
 
-**来源：**微博
+**来源： ** 微博
 
-**规模：**1,710,000 pairs
+**规模：** 1,710,000 pairs
 
-**下载链接：**http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/
+**下载链接：** 
+
+http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/
 
 
 
