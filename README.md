@@ -26,6 +26,10 @@
 
 ## 微博
 
+[Noah NRM Data](datasets/Noah_NRM_Data.md)
+
+[STC Data](datasets/STC_Data.md)
+
 [NTCIR14 STC3 CECG](datasets/NTCIR14-STC3-CECG.md)
 
 [Personality Assignment Dataset](datasets/Personality_Assignment_Dataset.md)
