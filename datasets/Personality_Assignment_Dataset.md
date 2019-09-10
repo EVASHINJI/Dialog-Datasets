@@ -14,13 +14,13 @@
 
 **构造方法：**
 
-1. Weibo Dataset(WD) - 9, 697, 651 pairs
+1. Weibo Dataset(WD) - 微博抓取数据，9, 697, 651 pairs 
 
-2. Profile Binary Subset(PB) -  76, 930 pairs from WD for 6 profile keys by expression
+2. Profile Binary Subset(PB) -  微博抓取数据中，通过表达式匹配profile的相关句子{姓名，性别，年龄，城市，体重，星座}，76, 930 pairs，13个人标注为某个设定下的正负例
 
-3. Profile Related Subset - positive in PB
+3. Profile Related Subset - PB当中跟profile相关的正例，42, 193 pairs
 
-4. Manual Dataset - whether post is related to profile
+4. Manual Dataset - 人工写的与profile相关的正负例句子
 
    
 

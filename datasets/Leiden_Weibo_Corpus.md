@@ -14,7 +14,7 @@ http://lwc.daanvanesch.nl/openaccess.php
 
 **构造方法：**
 
-5,103,566 messages posted on Sina Weibo in January 2012.
+使用微博API抓取2012.01.08 - 2012.01.30的5,103,566条post，好像没有response，没办法用作对话？
 
 http://lwc.daanvanesch.nl/help.php#methodology
 

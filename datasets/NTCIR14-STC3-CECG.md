@@ -14,7 +14,13 @@ http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/
 
 **构造方法：**
 
-Noah NRM Data 使用Bi-LSTM进行情感分类加上情感，并做了类别均衡
+Noah NRM Data 基础上使用Bi-LSTM进行情感分类加上情感，并做了类别均衡
+
+
+
+**其他标签：**
+
+生成回复的情感类别，使用Bi-LSTM进行分类。
 
 
 

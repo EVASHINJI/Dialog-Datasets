@@ -23,10 +23,12 @@ http://www.noahlab.com.hk/topics/ShortTextConversation (已失效)
 **构造方法：**
 
 1. 删除post小于10个中文字符或response小于5个中文字符的pairs
-2. 只保留post主题一致的前30条response
-3. 过滤广告
 
+2. 只保留post主题相关的前30条response
 
+3. 过滤广告、无意义的回复如"哈哈"，
+
+   
 
 **公开数据的论文：**
 
